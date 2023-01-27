@@ -9,7 +9,7 @@ This is the code as it was upon closing the project and correcting it. There are
 -Does not handle "binary" inputs (assuming \0 instead of storing byte counts)
 
 # Bonus:  
--Handles multiple descriptors at once
+-Handles multiple descriptors at once  
 -A single static variable, used to store a self cleaning linked list
 
 # Improvements I would like to make:  
